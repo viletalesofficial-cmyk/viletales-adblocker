@@ -6,7 +6,7 @@
 // ==========================================================
 const CONFIG = {
     logoUrl:
-        "https://blogger.googleusercontent.com/img/a/AVvXsEhaZtN16Z4U9z--I9xFPXPpFPqQXh9Q4KbMSy3yElIrhilHz3K8p_yT_Vb-FLxWdgGuvMXdhnceynqtPxGx2690kGB33A-VQUY8lwKSd8tPKl5ZTG3sr_dk-57wVbk8PHki2zI8xI5KvOP3IPUCV7jqWvxznVHyArqw5cTA2FfJOZVYoB1k2AFFy5sDaQ=s666",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEi6c8mGJ9oSTHO9Ey68PJZ4Ep-FwDJOvwIlzdrdAquMRl7HLwK9o2bxD693-Mb5CspCdoVOoFmX67DB9ESmN2b-WztKETiwcqwZ6tQi4de_Z3R_5ZTgtjpO77KBZ5zqQIDxTaQ3tXmbFuTo2AV-YEVcBagRYE8GkWPzjRv0XJiky6RTeSSA8JwS0yameE4=s1254",
 
     title: "Ad Blocker Detected!",
 
